@@ -27,4 +27,3 @@ new_student = Student.new("new", "guy")
 
 puts jim.knowledge
 puts steve.knowledge
-
