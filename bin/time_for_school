@@ -24,3 +24,7 @@ jim = User.new("Jim", "Jim")
 steve.learn(avi.teach)
 
 new_student = Student.new("new", "guy")
+
+puts jim.knowledge
+puts steve.knowledge
+
